@@ -6,7 +6,7 @@
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuratio
+## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
@@ -23,5 +23,8 @@ npm install
 ```sh
 npm run dev
 ```
-
+（如果这不起作用，请尝试安装cnpm或换源）
 打开localhost:5175查看效果
+
+默认超级用户名：root
+默认超级用户密码：lyh
